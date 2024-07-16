@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-NextWordApp
 
 
 <h1 align="center">
